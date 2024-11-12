@@ -1,1 +1,1 @@
-# React + TypeScript + Vite template
+# Vite + React + TypeScript template
